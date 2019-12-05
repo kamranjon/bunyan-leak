@@ -1,0 +1,18 @@
+{
+  "name": "bunyan-leak",
+  "version": "1.0.0",
+  "description": "test bunyan leaking environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bunyan": "^2.0.2",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "sinon": "^7.5.0",
+    "sinon-chai": "^3.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
